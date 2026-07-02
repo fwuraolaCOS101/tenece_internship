@@ -5,9 +5,9 @@
 
 ## My Expections 
    - [ ] Improve my Programming skills
-   - [ ] Collaborate with other developers
-   - [ ] Gain experience in a professionalenvironment with real-world practices
-   - [ ] Contribute meaningfullyto the team  
+   - [x] Collaborate with other developers
+   - [ ] Gain experience in a professional environment with real-world practices
+   - [ ] Contribute meaningfully to the team  
    - [ ] Build a strong foundation in software development
    - [ ] Improve my problem-solving, critical thinking and communication skills
    - [ ] Develop a portfolio of projects that showcase my skills in the professional world
